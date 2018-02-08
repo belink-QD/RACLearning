@@ -1,0 +1,6 @@
+framework module Pods_RACLearning {
+  umbrella header "Pods-RACLearning-umbrella.h"
+
+  export *
+  module * { export * }
+}
